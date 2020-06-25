@@ -6,7 +6,7 @@
 	$(document).ready(function () {
 		$('.owl-carousel').owlCarousel({
 		    loop:true,
-		    margin:10,
+		    margin:30,
 		    nav:false,
 		    autoplay: true,
 		    autoPlay: 3000, //Set AutoPlay to 3 seconds
@@ -29,7 +29,7 @@
 
 		$('#owl-slider').owlCarousel({
 		    loop:true,
-		    margin:10,
+		    margin:30,
 		    nav:false,
 		    autoplay: true,
 		    autoPlay: 3000, //Set AutoPlay to 3 seconds
